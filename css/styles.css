@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    cursor:crosshair;
+background-color: hsl(22, 96%, 45%);
+}
+img {
+    border-radius: 20px;
+    border-color: orangered;
+    border-width: 5px;
+    border-style: ridge;
+}
+h1,h2{
+    text-align: center;
+}
